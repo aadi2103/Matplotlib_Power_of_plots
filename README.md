@@ -1,5 +1,7 @@
 **Matplotlib-Visualization Challenge using Matplot and Pandas**
+
 What good is data without a good plot to tell the story?
+
 ![](Pymaceuticals/Data/Laboratory.jpg)
 
 
